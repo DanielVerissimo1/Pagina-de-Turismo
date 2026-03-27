@@ -1,6 +1,4 @@
 <h1 align="center"> 
-  <img width="41" height="32" alt="logo" src="https://github.com/user-attachments/assets/SEU-LOGO-AQUI" />
-  <br>
   Página de Turismo
   <p>
     <img src="https://img.shields.io/github/last-commit/DanielVerissimo1/Pagina-de-Turismo?style=flat&logo=git&logoColor=white&color=d9d9d9" alt="Last Commit">
@@ -15,7 +13,7 @@
 
 ## 📸 Visualização do Projeto:
 
-<img width="400" height="500" alt="preview" src="COLOQUE_PRINT_1_AQUI" />
+<img  alt="preview" src="/Thumbnail.png" />
 
 
 ---
